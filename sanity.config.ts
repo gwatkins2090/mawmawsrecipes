@@ -53,6 +53,7 @@ export default defineConfig({
       previewUrl: {
         draftMode: {
           enable: '/api/draft-mode/enable',
+          secret: process.env.SANITY_PREVIEW_SECRET!,
         },
       },
     }),
