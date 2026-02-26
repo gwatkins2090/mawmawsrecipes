@@ -1,0 +1,1038 @@
+[
+  {
+    "_id": "recipe-pear-honey-recipe",
+    "_type": "recipe",
+    "title": "Pear Honey Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "pear-honey-recipe"
+    },
+    "description": "Family recipe for Pear Honey Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "(20-ounce) can crushed pineapple with syrup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "16",
+            "unit": "cup",
+            "ingredient": "s (about 6 pounds) peeled, cored, and chopped pears"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "10",
+            "unit": "cup",
+            "ingredient": "s sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "lemon juice"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Combine all ingredients in a large saucepan. Cook until pears are tender and mixture thickens, approximately 30 minutes. Transfer to sterilized jars and seal while still hot*."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-pecan-pie",
+    "_type": "recipe",
+    "title": "Pecan Pie",
+    "slug": {
+      "_type": "slug",
+      "current": "pecan-pie"
+    },
+    "description": "Family recipe for Pecan Pie. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Pies",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "unbaked 9-inch pie shell"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "white karo"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "4",
+            "unit": "Tbsp",
+            "ingredient": "butter, melted"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "Tbsp",
+            "ingredient": "vanilla flavoring"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "pecans"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix sugar, karo, butter, vanilla and eggs. Pour over pecans in pie shell. Bake at 350° for 45 to 50 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "If you find your pie gets to hard on top, put a pan of water in oven on top rack over pie while baking."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-pecan-pie-1",
+    "_type": "recipe",
+    "title": "Pecan Pie 1",
+    "slug": {
+      "_type": "slug",
+      "current": "pecan-pie-1"
+    },
+    "description": "Family recipe for Pecan Pie 1. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Pies",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Beat together with rotary beater"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "⅔",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "light syrup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "butter, melted"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "dark corn syrup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "pecan halves"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Cream together - put in 9\" pastry. Bake at 375° - nicely browned. Cool."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Temperature: 375°\r\nTime: Bake 40-45'\r\n*"
+      }
+    ],
+    "notes": [
+      "Files very for flour*"
+    ]
+  },
+  {
+    "_id": "recipe-pickapeppa-marinated-chicken",
+    "_type": "recipe",
+    "title": "Pickapeppa Marinated Chicken",
+    "slug": {
+      "_type": "slug",
+      "current": "pickapeppa-marinated-chicken"
+    },
+    "description": "Family recipe for Pickapeppa Marinated Chicken. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "T Red Wine Vinegar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "T Pickapeppa Sauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "T Worcestershire Sauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "T Oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "T Soy Sauce"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Marinate boneless chicken breast 8 hours up to overnight."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Grill to perfection on the BBQ grill."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Marinates 4-5 chicken breast depending on size."
+      }
+    ],
+    "notes": [
+      "I like to double the marinate for added flavor. If you cook extra chicken this is so good left over and cut up on a green salad."
+    ]
+  },
+  {
+    "_id": "recipe-pistachio-salad",
+    "_type": "recipe",
+    "title": "Pistachio Salad",
+    "slug": {
+      "_type": "slug",
+      "current": "pistachio-salad"
+    },
+    "description": "Family recipe for Pistachio Salad. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Salads",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1 - 20",
+            "unit": "oz",
+            "ingredient": "can crushed pineapple (including juice)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1 -",
+            "unit": "",
+            "ingredient": "pkg. pistachio pudding instant"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "small marshmallows"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "chopped nuts (if desired) or less"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1 - 13½",
+            "unit": "oz",
+            "ingredient": "bowl cool whip"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix in order listed - pour into glass bowl. Let chill."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "(This is a sweet salad, good with ham, chicken or turkey.)"
+      }
+    ],
+    "notes": [
+      "This also could be used as dessert by pouring into a graham cracker crust and chill about three hrs."
+    ]
+  },
+  {
+    "_id": "recipe-potato-green-onion-soup",
+    "_type": "recipe",
+    "title": "Potato Green Onion Soup",
+    "slug": {
+      "_type": "slug",
+      "current": "potato-green-onion-soup"
+    },
+    "description": "Family recipe for Potato Green Onion Soup. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Soups",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "Irish potatoes, peeled & sliced thin"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "10",
+            "unit": "G",
+            "ingredient": "reen Onions, chopped 1 to 1½\" long"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "Cup",
+            "ingredient": "s Chicken broth"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "(10 oz.) Can Cream of Celery soup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¾",
+            "unit": "Cup",
+            "ingredient": "evaporated milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "pepper"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "Greek seasoning (Cavender's)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "½ 5",
+            "unit": "oz",
+            "ingredient": "can + 1 oz. whole milk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Cook potatoes & onions in 3-qt soup pot with chicken broth until tender. Strain vegetables. Save broth. Put potatoes & onions in blender with soup & milk. Blend until smooth. Return blended mixture to soup pot with broth. Add seasonings & heat."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "**Yields:** 4 servings"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "(One large yellow onion may be substituted for green onions.)"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-putn-on-the-ritz",
+    "_type": "recipe",
+    "title": "Putn On The Ritz",
+    "slug": {
+      "_type": "slug",
+      "current": "putn-on-the-ritz"
+    },
+    "description": "Family recipe for Putn On The Ritz. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "8",
+            "unit": "oz",
+            "ingredient": "pkg. cream cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "mayonnaise"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "grated Swiss cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "T. chopped green onions"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "8",
+            "unit": "slice",
+            "ingredient": "s bacon, cooked and crumbled"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "crushed Ritz crackers"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Soften cream cheese in a mixing bowl. Add mayonnaise, Swiss cheese, and green onions; mix well. Transfer to a baking dish. Top with bacon and crackers. Bake at 350 degrees for 15 to 20 minutes or until bubbly. Serve with bagels, chips, or toasted French break."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-quiche",
+    "_type": "recipe",
+    "title": "Quiche",
+    "slug": {
+      "_type": "slug",
+      "current": "quiche"
+    },
+    "description": "Family recipe for Quiche. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "3",
+            "unit": "slice",
+            "ingredient": "s milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "biscuit mix"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "ham pieces"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "½",
+            "unit": "slice",
+            "ingredient": "crumbled bacon (broken)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "table spoon grated onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Salt & pepper"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Beat eggs & milk & biscuit mix. Add other ingredients. Put in (?) pie shell and bake about 30 min at 375°."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-raisin-bran-muffins",
+    "_type": "recipe",
+    "title": "Raisin Bran Muffins",
+    "slug": {
+      "_type": "slug",
+      "current": "raisin-bran-muffins"
+    },
+    "description": "Family recipe for Raisin Bran Muffins. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Muffins",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "5",
+            "unit": "Cup",
+            "ingredient": "s all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "3",
+            "unit": "Cup",
+            "ingredient": "s sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "5",
+            "unit": "tsp",
+            "ingredient": "baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1½",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "Qt. Buttermilk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "½",
+            "unit": "Cup",
+            "ingredient": "Oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "Cup",
+            "ingredient": "Applesauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "Eggs, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "7½",
+            "unit": "Cup",
+            "ingredient": "s (15 oz. box) Natural Raisin Bran"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Blend flour, baking soda, and salt in large mixing bowl. Stir in cereal. Add buttermilk, oil and eggs and blend until dry ingredients are moistened. Do not stir batter again. (Mixture may be stored, covered in a non-metal bowl in refrigerator for up to six weeks.) As needed, fill lightly greased muffin pans 2/3 full. Bake at 400 degrees for 15 to 20 minutes. If desired, lightly brush melted butter over batter and sprinkle with cinnamon sugar before baking. Makes about 4 dozen muffins."
+      }
+    ],
+    "notes": [
+      "Recipe may be halved."
+    ]
+  },
+  {
+    "_id": "recipe-raw-cranberry-salad",
+    "_type": "recipe",
+    "title": "Raw Cranberry Salad",
+    "slug": {
+      "_type": "slug",
+      "current": "raw-cranberry-salad"
+    },
+    "description": "Family recipe for Raw Cranberry Salad. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Salads",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s raw cranberries, ground"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "whole orange, ground"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "crushed pineapple (8 oz)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "chopped nuts"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "package",
+            "ingredient": "raspberry gelatin"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "hot water"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Dissolve gelatin in hot water. Mix all ingredients and pour into glass bowl. Congeal."
+      }
+    ]
+  }
+]

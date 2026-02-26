@@ -1,0 +1,454 @@
+RECIPES NEEDING IMAGES - Copy these prompts into Sanity Studio:
+
+1. Classic Beef Stir Fry
+   Doc ID: recipe-classic-beef-stir-fry
+   Prompt: Delicious homemade Classic Beef Stir Fry, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+2. Grandma's Fluffy Buttermilk Pancakes
+   Doc ID: recipe-grandmas-fluffy-buttermilk-pancakes
+   Prompt: Elegant Grandma's Fluffy Buttermilk Pancakes, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+3. Overnight French Toast Casserole
+   Doc ID: recipe-overnight-french-toast-casserole
+   Prompt: Homemade Overnight French Toast Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+4. Perfect Chocolate Chip Cookies
+   Doc ID: recipe-perfect-chocolate-chip-cookies
+   Prompt: Freshly baked Perfect Chocolate Chip Cookies, golden edges, stacked on wire rack, chocolate melting, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+5. Classic Tiramisu
+   Doc ID: recipe-classic-tiramisu
+   Prompt: Delicious homemade Classic Tiramisu, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+6. Angel Biscuits
+   Doc ID: recipe-angel-biscuits
+   Prompt: Freshly baked Angel Biscuits, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+7. Applesauce Muffins
+   Doc ID: recipe-applesauce-muffins
+   Prompt: Delicious homemade Applesauce Muffins, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+8. Apricot Almond Scones
+   Doc ID: recipe-apricot-almond-scones
+   Prompt: Delicious homemade Apricot Almond Scones, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+9. Baked Chicken Breasts En Casserole
+   Doc ID: recipe-baked-chicken-breasts-en-casserole
+   Prompt: Homemade Baked Chicken Breasts En Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+10. Baked Grits
+   Doc ID: recipe-baked-grits
+   Prompt: Delicious homemade Baked Grits, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+11. Banana Nut Bread
+   Doc ID: recipe-banana-nut-bread
+   Prompt: Freshly baked Banana Nut Bread, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+12. Barley Soup
+   Doc ID: recipe-barley-soup
+   Prompt: Hearty Barley Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+13. Becky Chicken Dumplings
+   Doc ID: recipe-becky-chicken-dumplings
+   Prompt: Perfectly cooked Becky Chicken Dumplings, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+14. Beef Bread
+   Doc ID: recipe-beef-bread
+   Prompt: Freshly baked Beef Bread, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+15. Best Ever Salad
+   Doc ID: recipe-best-ever-salad
+   Prompt: Fresh Best Ever Salad, vibrant colorful ingredients, crisp vegetables, elegant plating, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+16. Best Rolls
+   Doc ID: recipe-best-rolls
+   Prompt: Delicious homemade Best Rolls, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+17. Black Bottom Pie
+   Doc ID: recipe-black-bottom-pie
+   Prompt: Beautiful homemade Black Bottom Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+18. Blueberry Pound Cake
+   Doc ID: recipe-blueberry-pound-cake
+   Prompt: Elegant Blueberry Pound Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+19. Boston Cream Pie
+   Doc ID: recipe-boston-cream-pie
+   Prompt: Beautiful homemade Boston Cream Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+20. Breakfastbrunch Roll Up
+   Doc ID: recipe-breakfastbrunch-roll-up
+   Prompt: Delicious Breakfastbrunch Roll Up, golden and fluffy, butter and syrup, fresh berries, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+21. Breakfast Casserole
+   Doc ID: recipe-breakfast-casserole
+   Prompt: Homemade Breakfast Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+22. Broccoli Cheese Soup
+   Doc ID: recipe-broccoli-cheese-soup
+   Prompt: Hearty Broccoli Cheese Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+23. Broccoli Rice Casserole
+   Doc ID: recipe-broccoli-rice-casserole
+   Prompt: Homemade Broccoli Rice Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+24. Broccoli Rice Casserole 1
+   Doc ID: recipe-broccoli-rice-casserole-1
+   Prompt: Homemade Broccoli Rice Casserole 1 in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+25. Carrot Soup Louella Donelson
+   Doc ID: recipe-carrot-soup-louella-donelson
+   Prompt: Hearty Carrot Soup Louella Donelson in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+26. Catfish Allison
+   Doc ID: recipe-catfish-allison
+   Prompt: Beautifully prepared Catfish Allison, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+27. Catfish With Pecan Brown Butter Recipe
+   Doc ID: recipe-catfish-with-pecan-brown-butter-recipe
+   Prompt: Beautifully prepared Catfish With Pecan Brown Butter Recipe, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+28. Chessy Catfish
+   Doc ID: recipe-chessy-catfish
+   Prompt: Beautifully prepared Chessy Catfish, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+29. Chicken Casserole Serves 12
+   Doc ID: recipe-chicken-casserole-serves-12
+   Prompt: Homemade Chicken Casserole Serves 12 in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+30. Chicken Dressing Casserole Jan G
+   Doc ID: recipe-chicken-dressing-casserole-jan-g
+   Prompt: Homemade Chicken Dressing Casserole Jan G in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+31. Chicken Rice Casserole
+   Doc ID: recipe-chicken-rice-casserole
+   Prompt: Homemade Chicken Rice Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+32. Chicken Spaghetti
+   Doc ID: recipe-chicken-spaghetti
+   Prompt: Perfectly cooked Chicken Spaghetti, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+33. Chicken Spaghetti Version 2
+   Doc ID: recipe-chicken-spaghetti-version-2
+   Prompt: Perfectly cooked Chicken Spaghetti Version 2, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+34. Chipped Beef Casserole
+   Doc ID: recipe-chipped-beef-casserole
+   Prompt: Homemade Chipped Beef Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+35. Chocolate Chess Pie
+   Doc ID: recipe-chocolate-chess-pie
+   Prompt: Beautiful homemade Chocolate Chess Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+36. Christmas Breakfast Sausage Casserole
+   Doc ID: recipe-christmas-breakfast-sausage-casserole
+   Prompt: Homemade Christmas Breakfast Sausage Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+37. Coconut Almond Pound Cake
+   Doc ID: recipe-coconut-almond-pound-cake
+   Prompt: Elegant Coconut Almond Pound Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+38. Coconut Pie Bayleys
+   Doc ID: recipe-coconut-pie-bayleys
+   Prompt: Beautiful homemade Coconut Pie Bayleys, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+39. Comeback Sauce Recipe
+   Doc ID: recipe-comeback-sauce-recipe
+   Prompt: Delicious homemade Comeback Sauce Recipe, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+40. Coon Cheese Sausage Biscuits
+   Doc ID: recipe-coon-cheese-sausage-biscuits
+   Prompt: Freshly baked Coon Cheese Sausage Biscuits, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+41. Corn Chowder Soup
+   Doc ID: recipe-corn-chowder-soup
+   Prompt: Hearty Corn Chowder Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+42. Corn Rice Casserole
+   Doc ID: recipe-corn-rice-casserole
+   Prompt: Homemade Corn Rice Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+43. Cranberry Nut Bread Recipe
+   Doc ID: recipe-cranberry-nut-bread-recipe
+   Prompt: Freshly baked Cranberry Nut Bread Recipe, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+44. Cranberry Orange Scones Full Recipe
+   Doc ID: recipe-cranberry-orange-scones-full-recipe
+   Prompt: Delicious homemade Cranberry Orange Scones Full Recipe, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+45. Crazy Custard Pie
+   Doc ID: recipe-crazy-custard-pie
+   Prompt: Beautiful homemade Crazy Custard Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+46. Crunchy Chicken Recipe
+   Doc ID: recipe-crunchy-chicken-recipe
+   Prompt: Perfectly cooked Crunchy Chicken Recipe, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+47. Crunch Catfish With Lemon Butter Sauce
+   Doc ID: recipe-crunch-catfish-with-lemon-butter-sauce
+   Prompt: Beautifully prepared Crunch Catfish With Lemon Butter Sauce, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+48. Delicious Ham And Potato Soup
+   Doc ID: recipe-delicious-ham-and-potato-soup
+   Prompt: Hearty Delicious Ham And Potato Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+49. Dorothy Browns Breakfast Casserole
+   Doc ID: recipe-dorothy-browns-breakfast-casserole
+   Prompt: Homemade Dorothy Browns Breakfast Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+50. French Bread
+   Doc ID: recipe-french-bread
+   Prompt: Freshly baked French Bread, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+51. Fresh Blueberry Pie
+   Doc ID: recipe-fresh-blueberry-pie
+   Prompt: Beautiful homemade Fresh Blueberry Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+52. Frozen North Dressing Potato Casserole
+   Doc ID: recipe-frozen-north-dressing-potato-casserole
+   Prompt: Homemade Frozen North Dressing Potato Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+53. Grape Salad
+   Doc ID: recipe-grape-salad
+   Prompt: Fresh Grape Salad, vibrant colorful ingredients, crisp vegetables, elegant plating, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+54. Green Bean Corn Casserole
+   Doc ID: recipe-green-bean-corn-casserole
+   Prompt: Homemade Green Bean Corn Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+55. Hamburg Noodle Bake
+   Doc ID: recipe-hamburg-noodle-bake
+   Prompt: Delicious homemade Hamburg Noodle Bake, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+56. Ham Croquettes
+   Doc ID: recipe-ham-croquettes
+   Prompt: Delicious homemade Ham Croquettes, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+57. Ham Loaf Supreme
+   Doc ID: recipe-ham-loaf-supreme
+   Prompt: Delicious homemade Ham Loaf Supreme, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+58. Ham Steak
+   Doc ID: recipe-ham-steak
+   Prompt: Delicious homemade Ham Steak, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+59. Hash Brown Potato Casserole
+   Doc ID: recipe-hash-brown-potato-casserole
+   Prompt: Homemade Hash Brown Potato Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+60. Hot Bread
+   Doc ID: recipe-hot-bread
+   Prompt: Freshly baked Hot Bread, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+61. Hot Fruit
+   Doc ID: recipe-hot-fruit
+   Prompt: Delicious homemade Hot Fruit, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+62. Ice Box Fruit Cake
+   Doc ID: recipe-ice-box-fruit-cake
+   Prompt: Elegant Ice Box Fruit Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+63. Italian Cream Cake
+   Doc ID: recipe-italian-cream-cake
+   Prompt: Elegant Italian Cream Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+64. Jim Buck Ross Blueberry Buttermilk Muffins
+   Doc ID: recipe-jim-buck-ross-blueberry-buttermilk-muffins
+   Prompt: Delicious homemade Jim Buck Ross Blueberry Buttermilk Muffins, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+65. Karo Pecan Pie
+   Doc ID: recipe-karo-pecan-pie
+   Prompt: Beautiful homemade Karo Pecan Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+66. Lasagne
+   Doc ID: recipe-lasagne
+   Prompt: Delicious homemade Lasagne, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+67. Lolas Southern Buttermilk Pie
+   Doc ID: recipe-lolas-southern-buttermilk-pie
+   Prompt: Beautiful homemade Lolas Southern Buttermilk Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+68. Maes Chicken Salad
+   Doc ID: recipe-maes-chicken-salad
+   Prompt: Fresh Maes Chicken Salad, vibrant colorful ingredients, crisp vegetables, elegant plating, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+69. Maui Pineapple Scones
+   Doc ID: recipe-maui-pineapple-scones
+   Prompt: Delicious homemade Maui Pineapple Scones, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+70. Meat Balls Spaghetti
+   Doc ID: recipe-meat-balls-spaghetti
+   Prompt: Delicious homemade Meat Balls Spaghetti, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+71. Meat Loaf
+   Doc ID: recipe-meat-loaf
+   Prompt: Delicious homemade Meat Loaf, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+72. Meat Loaf Pizza
+   Doc ID: recipe-meat-loaf-pizza
+   Prompt: Delicious homemade Meat Loaf Pizza, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+73. Meat Stuffing For Jumbo Shells Or Manicotti
+   Doc ID: recipe-meat-stuffing-for-jumbo-shells-or-manicotti
+   Prompt: Delicious homemade Meat Stuffing For Jumbo Shells Or Manicotti, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+74. Morning Glory Muffins
+   Doc ID: recipe-morning-glory-muffins
+   Prompt: Delicious homemade Morning Glory Muffins, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+75. My Favorite Biscotti
+   Doc ID: recipe-my-favorite-biscotti
+   Prompt: Delicious homemade My Favorite Biscotti, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+76. Nut Cake 2 Loaves
+   Doc ID: recipe-nut-cake-2-loaves
+   Prompt: Elegant Nut Cake 2 Loaves, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+77. Old Fashioned Cornbread Dressing Southern Living
+   Doc ID: recipe-old-fashioned-cornbread-dressing-southern-living
+   Prompt: Freshly baked Old Fashioned Cornbread Dressing Southern Living, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+78. Old Fashioned Short Cake
+   Doc ID: recipe-old-fashioned-short-cake
+   Prompt: Elegant Old Fashioned Short Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+79. Panko Crusted Salmon Recipe
+   Doc ID: recipe-panko-crusted-salmon-recipe
+   Prompt: Beautifully prepared Panko Crusted Salmon Recipe, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+80. Paradise Pineapple Pie
+   Doc ID: recipe-paradise-pineapple-pie
+   Prompt: Beautiful homemade Paradise Pineapple Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+81. Pear Honey Recipe
+   Doc ID: recipe-pear-honey-recipe
+   Prompt: Delicious homemade Pear Honey Recipe, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+82. Pecan Pie
+   Doc ID: recipe-pecan-pie
+   Prompt: Beautiful homemade Pecan Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+83. Pecan Pie 1
+   Doc ID: recipe-pecan-pie-1
+   Prompt: Beautiful homemade Pecan Pie 1, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+84. Pickapeppa Marinated Chicken
+   Doc ID: recipe-pickapeppa-marinated-chicken
+   Prompt: Perfectly cooked Pickapeppa Marinated Chicken, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+85. Pistachio Salad
+   Doc ID: recipe-pistachio-salad
+   Prompt: Fresh Pistachio Salad, vibrant colorful ingredients, crisp vegetables, elegant plating, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+86. Potato Green Onion Soup
+   Doc ID: recipe-potato-green-onion-soup
+   Prompt: Hearty Potato Green Onion Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+87. Putn On The Ritz
+   Doc ID: recipe-putn-on-the-ritz
+   Prompt: Delicious homemade Putn On The Ritz, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+88. Quiche
+   Doc ID: recipe-quiche
+   Prompt: Delicious homemade Quiche, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+89. Raisin Bran Muffins
+   Doc ID: recipe-raisin-bran-muffins
+   Prompt: Delicious homemade Raisin Bran Muffins, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+90. Raw Cranberry Salad
+   Doc ID: recipe-raw-cranberry-salad
+   Prompt: Fresh Raw Cranberry Salad, vibrant colorful ingredients, crisp vegetables, elegant plating, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+91. Red Velvet Cake
+   Doc ID: recipe-red-velvet-cake
+   Prompt: Elegant Red Velvet Cake, perfectly frosted layers, sliced showing moist crumb, on cake stand, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+92. Salmon Croquettes
+   Doc ID: recipe-salmon-croquettes
+   Prompt: Beautifully prepared Salmon Croquettes, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+93. Salmon Loaf
+   Doc ID: recipe-salmon-loaf
+   Prompt: Beautifully prepared Salmon Loaf, flaky fillet, lemon wedges, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+94. Salted Pecans Express Printing
+   Doc ID: recipe-salted-pecans-express-printing
+   Prompt: Delicious homemade Salted Pecans Express Printing, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+95. Sausage Biscuit Snackmeal
+   Doc ID: recipe-sausage-biscuit-snackmeal
+   Prompt: Freshly baked Sausage Biscuit Snackmeal, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+96. Sausage Egg Casserole
+   Doc ID: recipe-sausage-egg-casserole
+   Prompt: Homemade Sausage Egg Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+97. Shrimp Casserole Express Printing
+   Doc ID: recipe-shrimp-casserole-express-printing
+   Prompt: Homemade Shrimp Casserole Express Printing in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+98. Shrimp Dip
+   Doc ID: recipe-shrimp-dip
+   Prompt: Delicious homemade Shrimp Dip, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+99. Sour Cream Biscuits Recipe
+   Doc ID: recipe-sour-cream-biscuits-recipe
+   Prompt: Freshly baked Sour Cream Biscuits Recipe, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+100. Squash Dressing
+   Doc ID: recipe-squash-dressing
+   Prompt: Delicious homemade Squash Dressing, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+101. Stuffed Peppers
+   Doc ID: recipe-stuffed-peppers
+   Prompt: Delicious homemade Stuffed Peppers, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+102. Stuffing For Flounder
+   Doc ID: recipe-stuffing-for-flounder
+   Prompt: Delicious homemade Stuffing For Flounder, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+103. Sweet Potato Pie
+   Doc ID: recipe-sweet-potato-pie
+   Prompt: Beautiful homemade Sweet Potato Pie, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+104. Sweet Potato Pie 1
+   Doc ID: recipe-sweet-potato-pie-1
+   Prompt: Beautiful homemade Sweet Potato Pie 1, golden flaky crust, sliced showing filling, on white ceramic plate, vanilla ice cream, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+105. Tuna Casserole
+   Doc ID: recipe-tuna-casserole
+   Prompt: Homemade Tuna Casserole in white baking dish, golden cheesy top, bubbling hot, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+106. Tylers Blueberry Scones With Lemon Glaze
+   Doc ID: recipe-tylers-blueberry-scones-with-lemon-glaze
+   Prompt: Delicious homemade Tylers Blueberry Scones With Lemon Glaze, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+107. Various Appetizersdips
+   Doc ID: recipe-various-appetizersdips
+   Prompt: Delicious homemade Various Appetizersdips, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+108. Wild Rice
+   Doc ID: recipe-wild-rice
+   Prompt: Delicious homemade Wild Rice, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+109. Zucchini Bread
+   Doc ID: recipe-zucchini-bread
+   Prompt: Freshly baked Zucchini Bread, golden brown crust, butter melting, steam rising, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+110. Classic Spaghetti Carbonara
+   Doc ID: recipe-classic-spaghetti-carbonara
+   Prompt: Delicious homemade Classic Spaghetti Carbonara, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+111. Homemade Pizza Margherita
+   Doc ID: recipe-homemade-pizza-margherita
+   Prompt: Delicious homemade Homemade Pizza Margherita, perfectly prepared, appetizing presentation, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+112. Chicken Tacos Al Pastor
+   Doc ID: recipe-chicken-tacos-al-pastor
+   Prompt: Perfectly cooked Chicken Tacos Al Pastor, golden brown, juicy meat, herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+
+113. Homemade Chicken Noodle Soup
+   Doc ID: recipe-homemade-chicken-noodle-soup
+   Prompt: Hearty Homemade Chicken Noodle Soup in ceramic bowl, steam rising, crusty bread, fresh herbs, Professional food photography, appetizing presentation, bright natural lighting, shallow depth of field, rustic wooden or marble surface, styled with fresh ingredients, magazine-quality
+

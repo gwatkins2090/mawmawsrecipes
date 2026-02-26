@@ -6,10 +6,12 @@ export const categoriesPage = defineType({
   title: 'Categories Page',
   type: 'document',
   icon: FolderIcon,
+  description: 'The page that lists all recipe categories (/categories)',
   fields: [
     defineField({
       name: 'hero',
       title: 'Hero Section',
+      description: 'The banner at the top of the categories page',
       type: 'object',
       fields: [
         {
@@ -17,6 +19,7 @@ export const categoriesPage = defineType({
           title: 'Heading',
           type: 'string',
           initialValue: 'Recipe Categories',
+          description: 'Page title (e.g., "Browse by Category")',
         },
         {
           name: 'description',
@@ -24,12 +27,14 @@ export const categoriesPage = defineType({
           type: 'text',
           rows: 2,
           initialValue: 'Explore recipes organized by type, cuisine, and occasion.',
+          description: 'Subtitle text below the heading',
         },
         {
           name: 'backgroundImage',
           title: 'Background Image',
           type: 'image',
           options: { hotspot: true },
+          description: 'Background image for the banner (if empty, uses dark charcoal with subtle pattern)',
         },
       ],
     }),
@@ -39,6 +44,7 @@ export const categoriesPage = defineType({
       type: 'text',
       rows: 2,
       initialValue: 'No categories found. Check back soon!',
+      description: 'Message shown if no categories exist',
     }),
   ],
   preview: {

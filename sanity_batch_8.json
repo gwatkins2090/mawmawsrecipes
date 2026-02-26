@@ -1,0 +1,1310 @@
+[
+  {
+    "_id": "recipe-meat-loaf",
+    "_type": "recipe",
+    "title": "Meat Loaf",
+    "slug": {
+      "_type": "slug",
+      "current": "meat-loaf"
+    },
+    "description": "Family recipe for Meat Loaf. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "lb",
+            "ingredient": "ground chuck"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "package",
+            "ingredient": "Lipton Onion Soup mix"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "30",
+            "unit": "",
+            "ingredient": "crackers, ground"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "4",
+            "unit": "slice",
+            "ingredient": "s bread"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "Dr. milk (?)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "6",
+            "unit": "",
+            "ingredient": "table sp. catsup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "table sp. oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "table sp. chopped onion, ½ cup celery"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "bell pepper"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Salt & pepper to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "teas. sp. baking powder"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Put meat in mixing bowl - add onion soup mix & mix, add cracker crumbs and pepper."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Soak bread slices in milk, add catsup, and oil, then add to meat mixture & mix lightly."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Then add onion, bell pepper, and celery, and eggs - mix, then sprinkle baking powder and mix lightly, put in loaf pan (greased)."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Bake 2½ hrs - 375° for about 15 min - then 300°."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-meat-loaf-pizza",
+    "_type": "recipe",
+    "title": "Meat Loaf Pizza",
+    "slug": {
+      "_type": "slug",
+      "current": "meat-loaf-pizza"
+    },
+    "description": "Family recipe for Meat Loaf Pizza. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "",
+            "unit": "",
+            "ingredient": "A meat loaf turned - filled wet and filled with tomato and cheese."
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Bake 425° for 35 min. Serves 6 at 280 Calories each."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "1½ lbs. extra lean ground pork"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "1 teaspoon salt"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "¼ teaspoon pepper"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "¼ to ½ teaspoon garlic powder or to suit taste"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "1 cup tomato sauce or pizza sauce"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "3 oz. shredded part skim mozzarella"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "1 tablespoon leaf oregano, crumbled"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Sprinkle ground meat with salt, pepper, and garlic powder. Gently pat into a 10-inch pie plate, building the rim. Bake in hot oven (425°) 15 min."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Add tomato or pizza sauce and sprinkle with cheese and oregano. Bake 10 min longer, or until hot and bubbly. Drain off any fat."
+      }
+    ],
+    "notes": [
+      "**\r\n- Chopped peppers (green), mushroom slices, onions or whatever else you like on pizza are all good additions - Anything but sausage. Serve in wedges.\r\n- This is another of our favorites! I use ¼ tsp. garlic.\r\n\r\n**Instructions continued:**\r\nThey then slightly and keep apart from slices. They can be frozen quickly on cookie sheet and store in plastic bag. This method will prevent sticking together.\r\n\r\n(I use the lean ground beef.) Another version of stuffing:\r\n\r\n1½ lbs. coarsely ground cooked meat or lean ground beef cooked until all pink is gone. (Lean beef)\r\n2 eggs, slightly beaten\r\n½ cup finely minced onion\r\n1 cup dried bread crumbs\r\n½ tsp. salt (optional)\r\n¾ to 1 tsp. oregano - crushed\r\n1/8 tsp. pepper (salt & taste)\r\n\r\nMoisten with milk if desired. Mix thoroughly and proceed as in previous recipe."
+    ]
+  },
+  {
+    "_id": "recipe-meat-stuffing-for-jumbo-shells-or-manicotti",
+    "_type": "recipe",
+    "title": "Meat Stuffing For Jumbo Shells Or Manicotti",
+    "slug": {
+      "_type": "slug",
+      "current": "meat-stuffing-for-jumbo-shells-or-manicotti"
+    },
+    "description": "Family recipe for Meat Stuffing For Jumbo Shells Or Manicotti. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1½",
+            "unit": "lb",
+            "ingredient": "s. cooked chopped meat - (beef or mix of beef & pork) or ground beef cooked until all pink is gone - (lean beef)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "egg - beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "lb",
+            "ingredient": "mozzarella cheese diced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "3",
+            "unit": "slice",
+            "ingredient": "s toast bread"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "milk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Season with pepper, salt and parsley well. Mix thoroughly and stuff. Manicotti or Jumbo Shells cooked according to directions."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Lay in a row in greased baking dish. Two 10½ oz cans of spaghetti sauce or one 32 oz are required."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Pour most of sauce over manicotti (or Jumbo shells). Cover and bake 25 or 30 min. in 350° oven. Before serving add rest of sauce (heated) And sprinkle with Parmesan Cheese."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "The stuffed shells freeze very well."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-morning-glory-muffins",
+    "_type": "recipe",
+    "title": "Morning Glory Muffins",
+    "slug": {
+      "_type": "slug",
+      "current": "morning-glory-muffins"
+    },
+    "description": "Family recipe for Morning Glory Muffins. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Muffins",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1¼",
+            "unit": "cup",
+            "ingredient": "s granulated sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2¼",
+            "unit": "cup",
+            "ingredient": "s flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "ground cinnamon"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "teaspoon",
+            "ingredient": "s baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¼",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "shredded coconut"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "raisins"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s grated carrots (4 large carrots)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "apple shredded"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "8",
+            "unit": "ounce",
+            "ingredient": "s crushed pineapple, drained"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "pecans or English walnuts"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "3",
+            "unit": "large",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_12",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "vegetable oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_13",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "apple sauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_14",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "vanilla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "recipe-my-favorite-biscotti",
+    "_type": "recipe",
+    "title": "My Favorite Biscotti",
+    "slug": {
+      "_type": "slug",
+      "current": "my-favorite-biscotti"
+    },
+    "description": "Family recipe for My Favorite Biscotti. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Cookies",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "3 1/2",
+            "unit": "cup",
+            "ingredient": "s unbleached all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "3/4",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "4",
+            "unit": "large",
+            "ingredient": "eggs, 2 egg yolks, and one egg white for brushing"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s granulated sugar, plus extra for sprinkling"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "tsp",
+            "ingredient": "s. vanilla extract"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "Tbs. almond liqueur, such as Disaronno"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "Tbs. anise seed"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "4",
+            "unit": "cup",
+            "ingredient": "s coarsely chopped whole almonds"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Adjust oven rack to lower-middle and upper positions and heat oven to 325 degrees. Line two large, rimmed baking sheets with parchment paper."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Whisk flour, baking powder, and salt in a medium bowl. Beat eggs, egg yolks and sugar with an electric mixer in a large bowl until light, about 3 minutes; beat in vanilla, liqueur and anise. Beat in dry ingredients and then almonds to form sticky dough."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Divide dough into four portions on a heavily floured board and rolling each portion into an approximate 15- by 2-inch log. Carefully transfer 2 logs to each baking sheet, brushing each with egg white and sprinkling with sugar. Bake until pale golden and just beginning to crack, 20 to 25 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Cool cookie logs on baking sheet until tepid, about 10 minutes. Keeping loaves in position, heat oven to 200 degrees. Slice logs crosswise, 3/4-inch thick with a serrated knife, laying slices on baking sheets in single layer. (There will be enough cookies for 4 to 6 sheets.) Working 2 sheets at a time, bake biscotti until crisp 2 and golden, about 25 minutes. Remove from oven and cool. (Can be stored in airtight container up to 2 weeks.)"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-nut-cake-2-loaves",
+    "_type": "recipe",
+    "title": "Nut Cake 2 Loaves",
+    "slug": {
+      "_type": "slug",
+      "current": "nut-cake-2-loaves"
+    },
+    "description": "Family recipe for Nut Cake 2 Loaves. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Cakes",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "box",
+            "ingredient": "dates, chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "small",
+            "ingredient": "tsp baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "6",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "4",
+            "unit": "cup",
+            "ingredient": "s flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "shortening (melted)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "molasses"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "whiskey"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "cloves"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "allspice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "3",
+            "unit": "tsp",
+            "ingredient": "cinnamon"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "nutmeg"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_12",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_13",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "qts chopped pecans"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Sift flour and spices together. Combine whiskey and molasses and add soda. Cream shortening and sugar. Add egg yolks, beating well. Alternately add liquid and flour. Beat egg whites and fold into mixture. Add chopped fruit and nuts. Bake 250° for 1 hr and 45 min. Put pan of water under cake."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Makes 2 cakes (tube pan)"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-old-fashioned-cornbread-dressing-southern-living",
+    "_type": "recipe",
+    "title": "Old Fashioned Cornbread Dressing Southern Living",
+    "slug": {
+      "_type": "slug",
+      "current": "old-fashioned-cornbread-dressing-southern-living"
+    },
+    "description": "Family recipe for Old Fashioned Cornbread Dressing Southern Living. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "Cup",
+            "ingredient": "s Cornmeal"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "tsp",
+            "ingredient": "Baking Powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "Cup",
+            "ingredient": "s Buttermilk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "Tbsp",
+            "ingredient": "Bacon dripping, melted"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "stalks celery, chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "Medium",
+            "ingredient": "Onion chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "2",
+            "unit": "Tbsp",
+            "ingredient": "Butter"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "12",
+            "unit": "slice",
+            "ingredient": "s bread (day old)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "2-2½",
+            "unit": "Cup",
+            "ingredient": "s chicken broth"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_12",
+            "amount": "1",
+            "unit": "Cup",
+            "ingredient": "Milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_13",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_14",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "Salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_15",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "Poultry Seasoning"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_16",
+            "amount": "¼",
+            "unit": "tsp",
+            "ingredient": "black pepper"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Combine first 4 ingredients. Add eggs, buttermilk, bacon drippings & mix. Pour into a heated (450° oven-4 Min) 10\" skillet & bake 35 mins. (light brown). Cool, crumble."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Saute celery & onion in butter. Combine cornbread & onion & remaining ingredients. Mix well. Put in lightly buttered 13/9/2 pan. Bake at 450° 25-30 mins)"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Yield: 8 servings."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-old-fashioned-short-cake",
+    "_type": "recipe",
+    "title": "Old Fashioned Short Cake",
+    "slug": {
+      "_type": "slug",
+      "current": "old-fashioned-short-cake"
+    },
+    "description": "Family recipe for Old Fashioned Short Cake. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Cakes",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1¾",
+            "unit": "cup",
+            "ingredient": "s unsifted cake flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "3",
+            "unit": "tsp",
+            "ingredient": "baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "¾",
+            "unit": "tsp",
+            "ingredient": "salt"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix these ingredients together. Cut in ½ cup shortening."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Combine ½ cup milk with 1 egg - add to flour - stir until soft dough is formed - put on lightly floured board and knead 20 times. Roll or pat ½ inch thick, cut with biscuit cutter. Brush with melted butter - put top on. Bake on ungreased cookie sheet until golden brown at 400° - separate while still warm - fill with strawberries."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-panko-crusted-salmon-recipe",
+    "_type": "recipe",
+    "title": "Panko Crusted Salmon Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "panko-crusted-salmon-recipe"
+    },
+    "description": "Family recipe for Panko Crusted Salmon Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "4",
+            "unit": "teaspoon",
+            "ingredient": "s olive oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "4",
+            "unit": "piece",
+            "ingredient": "s thickly cut, boneless salmon (each 6 oz)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Salt and pepper to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "Tbsp",
+            "ingredient": "honey mustard or sweet-hot mustard"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "teaspoon",
+            "ingredient": "s chopped fresh thyme"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "⅔",
+            "unit": "cup",
+            "ingredient": "panko bread crumbs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "Tbsp",
+            "ingredient": "chopped Italian parsley"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "Hungarian sweet paprika"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Preheat the oven to 400°F (convection or regular). Set the salmon on a foil-lined baking sheet skin side down. Sprinkle with salt and pepper."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In a small bowl, combine the honey mustard and 1 teaspoon of the thyme. In another small bowl, mix the panko with the remaining 1 teaspoon of thyme, 4 teaspoons of olive oil, parsley, and paprika. Add salt and pepper (a light sprinkle)."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-paradise-pineapple-pie",
+    "_type": "recipe",
+    "title": "Paradise Pineapple Pie",
+    "slug": {
+      "_type": "slug",
+      "current": "paradise-pineapple-pie"
+    },
+    "description": "Family recipe for Paradise Pineapple Pie. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Pies",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "(14 ounces) sweetened condensed milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "carton (12 ounces) frozen whipped topping, thawed"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "(20 oz) crushed pineapple, drained"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1/2",
+            "unit": "cup",
+            "ingredient": "lemon juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "g",
+            "ingredient": "raham cracker crusts (9 inches)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "flaked coconut, toasted"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Place the milk in a bowl; fold in whipped topping. Add lemon juice and topping."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Till or whipped and lemon juice until ready for 7 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Pour until slightly thickened."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Pour into crusts; sprinkle with coconut. Crust and refrigerate for at least 2 hours. Yield: 2 pies (16 servings, 1/8 each)."
+      }
+    ]
+  }
+]

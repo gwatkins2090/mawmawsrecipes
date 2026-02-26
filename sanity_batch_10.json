@@ -1,0 +1,1099 @@
+[
+  {
+    "_id": "recipe-red-velvet-cake",
+    "_type": "recipe",
+    "title": "Red Velvet Cake",
+    "slug": {
+      "_type": "slug",
+      "current": "red-velvet-cake"
+    },
+    "description": "Family recipe for Red Velvet Cake. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Cakes",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "shortening"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1½",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1-1",
+            "unit": "oz",
+            "ingredient": "red food color"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "vanilla"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "Tblsp cocoa"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "buttermilk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "vinegar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "soda"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Cream shortening & sugar. One at a time add food color, then vanilla, eggs. Mix well. Sift flour, cocoa, salt. Add flour & milk to creamed mix. Blend in vinegar & soda. Grease & flour. Bake 350 - 30 minutes."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-salmon-croquettes",
+    "_type": "recipe",
+    "title": "Salmon Croquettes",
+    "slug": {
+      "_type": "slug",
+      "current": "salmon-croquettes"
+    },
+    "description": "Family recipe for Salmon Croquettes. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1 - 15",
+            "unit": "oz",
+            "ingredient": "can pink salmon, drain and save juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "egg"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Pepper to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "chopped green onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "Worcestershire or to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "salmon juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "heaping teaspoon baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Deep fat for frying"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix salmon and egg with fork."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Add ½ cup sifted flour and stir. Mixture will be thick."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Add pepper, onions and Worcestershire."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "In the ¼ cup salmon juice, put the baking powder and beat with fork until it foams."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Pour this into salmon mixture and mix with fork."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Drop by small spoonfuls into deep hot fat."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Be sure and cook within 15 minutes of mixing."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-salmon-loaf",
+    "_type": "recipe",
+    "title": "Salmon Loaf",
+    "slug": {
+      "_type": "slug",
+      "current": "salmon-loaf"
+    },
+    "description": "Family recipe for Salmon Loaf. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "7½",
+            "unit": "oz",
+            "ingredient": "can salmon"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "cracker crumbs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "⅓",
+            "unit": "cup",
+            "ingredient": "milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "little chopped onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "egg"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "table sp. melted oleo"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Instructions appear incomplete in the original handwritten recipe)*"
+    ]
+  },
+  {
+    "_id": "recipe-salted-pecans-express-printing",
+    "_type": "recipe",
+    "title": "Salted Pecans Express Printing",
+    "slug": {
+      "_type": "slug",
+      "current": "salted-pecans-express-printing"
+    },
+    "description": "Family recipe for Salted Pecans Express Printing. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "qt water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "tabs. salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "6",
+            "unit": "cup",
+            "ingredient": "s pecans"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Bring w t s to boil. Remove from heat add pecans and let set 10 min. Strain and spread on cookie sheet. Cook 2½ hr at 225°."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "**Express Printing**  \r\n*1440 OLD SQUARE ROAD ■ JACKSON, MISSISSIPPI 39211*  \r\n*TEL. (601) 366-8748 ■ FAX (601) 982-7177*"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-sausage-biscuit-snackmeal",
+    "_type": "recipe",
+    "title": "Sausage Biscuit Snackmeal",
+    "slug": {
+      "_type": "slug",
+      "current": "sausage-biscuit-snackmeal"
+    },
+    "description": "Family recipe for Sausage Biscuit Snackmeal. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "09c60c2c-0641-4f53-b4ff-1395595cfdc3"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "lb",
+            "ingredient": "sausage (Jimmy Dean, or any brand you like)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "tbsp",
+            "ingredient": "chopped onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1/2",
+            "unit": "tsp",
+            "ingredient": "Cajun seasoning"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "tbsp",
+            "ingredient": "milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "flaky biscuits"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1/2",
+            "unit": "cup",
+            "ingredient": "grated cheese (any kind you like)"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Heat oven to 350 degrees."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Open biscuits and peel off half of the biscuit."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Place biscuit half into nonstick muffin pan - firmly push dough into the pan making sure it comes up on the side a little bit. (8 biscuits will make 16)"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Brown sausage and onion in skillet over medium heat."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Stir and break up sausage while browning to make small pieces."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Drain when cooked."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Add Cajun seasoning."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Beat eggs."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Add the milk to the beaten eggs and stir."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Add eggs to cooked sausage and cook until eggs are done."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_10",
+        "step": 11,
+        "instruction": "Take off heat and sprinkle cheese on mixture and mix well."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_11",
+        "step": 12,
+        "instruction": "Put 1 1/2 tbsp. of mixture onto biscuit half and cook for 14 to 17 minutes."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-sausage-egg-casserole",
+    "_type": "recipe",
+    "title": "Sausage Egg Casserole",
+    "slug": {
+      "_type": "slug",
+      "current": "sausage-egg-casserole"
+    },
+    "description": "Family recipe for Sausage Egg Casserole. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Casseroles",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "6",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s grated cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "8",
+            "unit": "",
+            "ingredient": "thick slices Italian bread"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "16",
+            "unit": "oz",
+            "ingredient": "sausage (1/2 oz is also O.K.)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "mustard"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Brown sausage and drain."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Beat eggs, cube the bread, and add all other ingredients."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Mix well with the sausage and pour into greased 9 X 13 inch glass baking dish."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Cover and refrigerate overnight."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "In morning, bake at 350° (uncovered) for 45-60 minutes."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-shrimp-casserole-express-printing",
+    "_type": "recipe",
+    "title": "Shrimp Casserole Express Printing",
+    "slug": {
+      "_type": "slug",
+      "current": "shrimp-casserole-express-printing"
+    },
+    "description": "Family recipe for Shrimp Casserole Express Printing. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Casseroles",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "10-12 oz other big can"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "French style green beans, drained"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "small",
+            "ingredient": "onion chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1 - 8",
+            "unit": "oz",
+            "ingredient": "sour cream"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "grated cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "cream celery soup"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix & bake. Ritz crackers - 1 stick oleo. Cook 350° - 45 min."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-shrimp-dip",
+    "_type": "recipe",
+    "title": "Shrimp Dip",
+    "slug": {
+      "_type": "slug",
+      "current": "shrimp-dip"
+    },
+    "description": "Family recipe for Shrimp Dip. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "09c60c2c-0641-4f53-b4ff-1395595cfdc3"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1 - 8",
+            "unit": "oz",
+            "ingredient": "carton sour cream"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1 -",
+            "unit": "",
+            "ingredient": "pkg. Hidden Valley Ranch Dressing (dry)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1 -",
+            "unit": "cup",
+            "ingredient": "mayonnaise"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1 -",
+            "unit": "can",
+            "ingredient": "shrimp (drained & rinsed)"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix all ingredients together and serve with crackers and/or chips."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-sour-cream-biscuits-recipe",
+    "_type": "recipe",
+    "title": "Sour Cream Biscuits Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "sour-cream-biscuits-recipe"
+    },
+    "description": "Family recipe for Sour Cream Biscuits Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1 - 8",
+            "unit": "oz",
+            "ingredient": "sour cream"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2 -",
+            "unit": "stick",
+            "ingredient": "s oleo or butter"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2 -",
+            "unit": "cup",
+            "ingredient": "s self-rising flour"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix all ingredients thoroughly. I do so by hand."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Bake in regular muffin pan at 400 degrees until brown, or\r\nBake at 375 degrees if you use no-stick pan."
+      }
+    ],
+    "notes": [
+      "I prefer the no-stick (Teflon lined) pan that makes 24 small muffins, just the right number for this recipe. This pan has the brand-name of Wilton. Each cup is 1¾ inches in diameter at the top."
+    ]
+  },
+  {
+    "_id": "recipe-squash-dressing",
+    "_type": "recipe",
+    "title": "Squash Dressing",
+    "slug": {
+      "_type": "slug",
+      "current": "squash-dressing"
+    },
+    "description": "Family recipe for Squash Dressing. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.383Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "Cup",
+            "ingredient": "s cooked squash (drained)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "Eggs, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "Medium",
+            "ingredient": "onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "Stick",
+            "ingredient": "oleo"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "Can",
+            "ingredient": "cream of chicken or cream of mushroom soup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "Cup",
+            "ingredient": "s crumbled corn bread"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Salt & Pepper (to suit your taste)"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Chop onion. Saute onion lightly in the oleo. Mash squash with fork. Mix all ingredients well and pour into greased casserole. Bake at 350 F. degrees 20-25 minutes, uncovered."
+      }
+    ]
+  }
+]

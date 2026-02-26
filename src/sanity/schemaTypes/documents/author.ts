@@ -6,12 +6,14 @@ export const author = defineType({
   title: 'Author',
   type: 'document',
   icon: UserIcon,
+  description: 'People who contribute recipes (family members, chefs, etc.)',
   fields: [
     defineField({
       name: 'name',
       title: 'Name',
       type: 'string',
       validation: (Rule) => Rule.required(),
+      description: 'Full name (e.g., "Grandma Rose", "Aunt Mary")',
     }),
     defineField({
       name: 'slug',
@@ -22,18 +24,20 @@ export const author = defineType({
         maxLength: 96,
       },
       validation: (Rule) => Rule.required(),
+      description: 'URL-friendly version of the name (auto-generated)',
     }),
     defineField({
       name: 'role',
       title: 'Role/Title',
       type: 'string',
-      description: 'e.g., "Head Chef", "Grandma", "Family Historian"',
+      description: 'Their title or relationship (e.g., "Head Chef", "Grandma", "Family Historian")',
     }),
     defineField({
       name: 'description',
       title: 'Bio',
       type: 'text',
       rows: 3,
+      description: 'A short biography or description of this person',
     }),
     defineField({
       name: 'avatar',
@@ -42,25 +46,27 @@ export const author = defineType({
       options: {
         hotspot: true,
       },
+      description: 'Profile photo (shown on recipe cards and author page)',
     }),
     defineField({
       name: 'emoji',
       title: 'Emoji',
       type: 'string',
-      description: 'e.g., 👩‍🍳, 👨‍🍳, 👵',
+      description: 'A fun emoji to represent this person (e.g., 👩‍🍳, 👨‍🍳, 👵)',
     }),
     defineField({
       name: 'isTeamMember',
       title: 'Team Member',
       type: 'boolean',
       initialValue: false,
-      description: 'Show on About page team section',
+      description: 'Show this person on the About page team section',
     }),
     defineField({
       name: 'socialLinks',
       title: 'Social Links',
       type: 'array',
       of: [{ type: 'socialLink' }],
+      description: 'Links to their social media profiles (optional)',
     }),
   ],
   orderings: [

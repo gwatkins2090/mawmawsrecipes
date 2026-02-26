@@ -1,0 +1,1674 @@
+[
+  {
+    "_id": "recipe-classic-beef-stir-fry",
+    "_type": "recipe",
+    "title": "Classic Beef Stir Fry",
+    "slug": {
+      "_type": "slug",
+      "current": "classic-beef-stir-fry"
+    },
+    "description": "Quick and flavorful beef stir fry with crisp vegetables in a savory sauce",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "asian",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "servings": 4,
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "totalTime": "25 min",
+    "restTime": "",
+    "tags": [
+      "stir-fry",
+      "beef",
+      "asian",
+      "quick",
+      "vegetables",
+      "weeknight"
+    ],
+    "isFamilyRecipe": false,
+    "featured": false,
+    "rating": 4.6,
+    "reviewCount": 198,
+    "dateCreated": "2024-02-03",
+    "dateModified": "2026-02-25T21:02:08.377Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "pound",
+            "ingredient": "beef sirloin, sliced thin against the grain"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "tablespoons",
+            "ingredient": "vegetable oil, divided"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "red",
+            "ingredient": "bell pepper, sliced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "green",
+            "ingredient": "bell pepper, sliced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "medium",
+            "ingredient": "onion, sliced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "cups",
+            "ingredient": "broccoli florets"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "3",
+            "unit": "cloves",
+            "ingredient": "garlic, minced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "fresh ginger, minced"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "3",
+            "unit": "tablespoons",
+            "ingredient": "soy sauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "2",
+            "unit": "tablespoons",
+            "ingredient": "oyster sauce"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "cornstarch"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "sesame oil"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_12",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "beef broth"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_13",
+            "amount": "2",
+            "unit": "green onions",
+            "ingredient": "sliced"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, sesame oil, and beef broth."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Heat 1 tablespoon oil in a large wok or skillet over high heat."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Add beef and stir-fry for 2-3 minutes until browned. Remove and set aside."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Add remaining oil to the pan. Add broccoli and stir-fry for 2 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Add bell peppers and onion, stir-fry for 2-3 minutes until crisp-tender."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Add garlic and ginger, stir-fry for 30 seconds until fragrant."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Return beef to the pan and add the sauce mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Stir-fry for 1-2 minutes until sauce thickens and coats everything."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Remove from heat and garnish with green onions."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Serve immediately over steamed rice."
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": "26g",
+      "carbs": "12g",
+      "fat": "15g",
+      "fiber": "3g"
+    },
+    "notes": [
+      "Cut beef against the grain for tenderness",
+      "Have all ingredients prepped before you start cooking",
+      "High heat is essential for proper stir-frying"
+    ],
+    "variations": [
+      "Add snap peas or carrots for different vegetables",
+      "Use chicken or pork instead of beef",
+      "Add cashews or peanuts for crunch",
+      "Spice it up with red pepper flakes"
+    ],
+    "storage": "Best served immediately, but leftovers keep for 2 days in refrigerator"
+  },
+  {
+    "_id": "recipe-grandmas-fluffy-buttermilk-pancakes",
+    "_type": "recipe",
+    "title": "Grandma's Fluffy Buttermilk Pancakes",
+    "slug": {
+      "_type": "slug",
+      "current": "grandmas-fluffy-buttermilk-pancakes"
+    },
+    "description": "Light, fluffy pancakes that melt in your mouth - a family recipe passed down through generations",
+    "category": {
+      "_type": "reference",
+      "_ref": "9d8f6746-12af-44be-8c44-c5db86d52a36"
+    },
+    "subcategory": "breakfast",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 4,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTime": "25 min",
+    "restTime": "",
+    "tags": [
+      "pancakes",
+      "breakfast",
+      "family-recipe",
+      "comfort-food",
+      "quick"
+    ],
+    "isFamilyRecipe": false,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 127,
+    "dateCreated": "2024-01-15",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "cups",
+            "ingredient": "all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "tablespoons",
+            "ingredient": "granulated sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "teaspoons",
+            "ingredient": "baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "large",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1¾",
+            "unit": "cups",
+            "ingredient": "buttermilk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "melted butter"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "vanilla extract"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "In a large bowl, whisk together flour, sugar, baking powder, and salt."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In another bowl, beat eggs and then whisk in buttermilk, melted butter, and vanilla."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Pour the wet ingredients into the dry ingredients and stir just until combined. Don't overmix - a few lumps are okay."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Heat a griddle or large skillet over medium heat. Lightly grease with butter or oil."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Pour ¼ cup of batter for each pancake onto the hot griddle."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Cook until bubbles form on surface and edges look set, about 2-3 minutes. Flip and cook until golden brown, 1-2 minutes more."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Serve immediately with butter and maple syrup."
+      }
+    ],
+    "nutrition": {
+      "calories": 285,
+      "protein": "8g",
+      "carbs": "42g",
+      "fat": "9g",
+      "fiber": "2g"
+    },
+    "notes": [
+      "For extra fluffy pancakes, separate the eggs and beat the whites until stiff peaks form, then fold into the batter at the end",
+      "Don't overmix the batter - this will make tough pancakes",
+      "Keep cooked pancakes warm in a 200°F oven while making the rest"
+    ],
+    "variations": [
+      "Add ½ cup fresh blueberries to the batter",
+      "Substitute half the flour with whole wheat flour for a heartier texture",
+      "Add 1 tablespoon lemon zest for citrus pancakes"
+    ],
+    "storage": "Leftover pancakes can be stored in the refrigerator for 3 days or frozen for up to 2 months"
+  },
+  {
+    "_id": "recipe-overnight-french-toast-casserole",
+    "_type": "recipe",
+    "title": "Overnight French Toast Casserole",
+    "slug": {
+      "_type": "slug",
+      "current": "overnight-french-toast-casserole"
+    },
+    "description": "Make-ahead breakfast casserole that's perfect for feeding a crowd on special mornings",
+    "category": {
+      "_type": "reference",
+      "_ref": "9d8f6746-12af-44be-8c44-c5db86d52a36"
+    },
+    "subcategory": "breakfast",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 8,
+    "prepTime": "15 min",
+    "cookTime": "45 min",
+    "totalTime": "1 hr",
+    "restTime": "8 hrs",
+    "tags": [
+      "french-toast",
+      "make-ahead",
+      "casserole",
+      "breakfast",
+      "holiday"
+    ],
+    "isFamilyRecipe": false,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "dateCreated": "2024-01-20",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "loaf",
+            "ingredient": "brioche or challah bread, sliced thick"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "8",
+            "unit": "large",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "cups",
+            "ingredient": "whole milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "heavy cream"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "brown sugar, divided"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "vanilla extract"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "ground cinnamon"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "6",
+            "unit": "tablespoons",
+            "ingredient": "butter, cold and cubed"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "all-purpose flour"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Grease a 9x13 inch baking dish. Arrange bread slices in the dish, overlapping slightly."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In a large bowl, whisk together eggs, milk, cream, ½ cup brown sugar, vanilla, cinnamon, and salt."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Pour the egg mixture evenly over the bread. Press down gently to help bread absorb the liquid."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Cover with plastic wrap and refrigerate overnight (at least 8 hours)."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "In the morning, preheat oven to 350°F. Remove casserole from refrigerator 30 minutes before baking."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "In a small bowl, mix remaining ¼ cup brown sugar with flour. Cut in cold butter until mixture resembles coarse crumbs."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Remove plastic wrap and sprinkle the crumb topping over the casserole."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Bake for 45-50 minutes until golden brown and set in the center."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Let cool for 5 minutes before serving. Dust with powdered sugar if desired."
+      }
+    ],
+    "nutrition": {
+      "calories": 425,
+      "protein": "12g",
+      "carbs": "52g",
+      "fat": "18g",
+      "fiber": "2g"
+    },
+    "notes": [
+      "Use day-old bread for best results - it absorbs the custard better",
+      "Can be assembled up to 2 days ahead",
+      "If the top browns too quickly, cover with foil"
+    ],
+    "variations": [
+      "Add ½ cup fresh berries between the bread layers",
+      "Substitute maple syrup for some of the brown sugar",
+      "Add chopped pecans to the crumb topping"
+    ],
+    "storage": "Leftovers keep in the refrigerator for 3 days and can be reheated in the oven"
+  },
+  {
+    "_id": "recipe-perfect-chocolate-chip-cookies",
+    "_type": "recipe",
+    "title": "Perfect Chocolate Chip Cookies",
+    "slug": {
+      "_type": "slug",
+      "current": "perfect-chocolate-chip-cookies"
+    },
+    "description": "Crispy edges, chewy centers, and loaded with chocolate chips - the ultimate comfort cookie",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "desert",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 24,
+    "prepTime": "15 min",
+    "cookTime": "12 min",
+    "totalTime": "27 min",
+    "restTime": "",
+    "tags": [
+      "cookies",
+      "chocolate-chip",
+      "dessert",
+      "baking",
+      "comfort-food"
+    ],
+    "isFamilyRecipe": false,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 342,
+    "dateCreated": "2024-01-25",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2¼",
+            "unit": "cups",
+            "ingredient": "all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "butter, softened"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "granulated sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "packed brown sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "large",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "2",
+            "unit": "teaspoons",
+            "ingredient": "vanilla extract"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "2",
+            "unit": "cups",
+            "ingredient": "semi-sweet chocolate chips"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Preheat oven to 375°F. Line baking sheets with parchment paper."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In a medium bowl, whisk together flour, baking soda, and salt."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "In a large bowl, cream together softened butter and both sugars until light and fluffy, about 3 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Beat in eggs one at a time, then add vanilla extract."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Gradually mix in the flour mixture until just combined."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Fold in chocolate chips with a wooden spoon."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Drop rounded tablespoons of dough onto prepared baking sheets, spacing 2 inches apart."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Bake for 9-11 minutes until edges are golden brown but centers still look slightly underbaked."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Cool on baking sheet for 5 minutes before transferring to a wire rack."
+      }
+    ],
+    "nutrition": {
+      "calories": 185,
+      "protein": "2g",
+      "carbs": "26g",
+      "fat": "9g",
+      "fiber": "1g"
+    },
+    "notes": [
+      "Don't overbake - cookies will continue cooking on the hot pan",
+      "Room temperature ingredients mix better",
+      "Chill dough for 30 minutes for thicker cookies"
+    ],
+    "variations": [
+      "Add 1 cup chopped walnuts or pecans",
+      "Use dark chocolate chips for richer flavor",
+      "Add 1 teaspoon cinnamon for spiced cookies",
+      "Make them gluten-free with almond flour"
+    ],
+    "storage": "Store in airtight container for up to 1 week or freeze dough balls for up to 3 months"
+  },
+  {
+    "_id": "recipe-classic-tiramisu",
+    "_type": "recipe",
+    "title": "Classic Tiramisu",
+    "slug": {
+      "_type": "slug",
+      "current": "classic-tiramisu"
+    },
+    "description": "Authentic Italian tiramisu with layers of coffee-soaked ladyfingers and creamy mascarpone",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "desert",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "servings": 8,
+    "prepTime": "30 min",
+    "cookTime": "0 min",
+    "totalTime": "30 min",
+    "restTime": "4 hrs",
+    "tags": [
+      "tiramisu",
+      "italian",
+      "dessert",
+      "coffee",
+      "no-bake",
+      "make-ahead"
+    ],
+    "isFamilyRecipe": false,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 178,
+    "dateCreated": "2024-01-28",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "6",
+            "unit": "large",
+            "ingredient": "egg yolks"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "granulated sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1¼",
+            "unit": "cups",
+            "ingredient": "mascarpone cheese, room temperature"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1¾",
+            "unit": "cups",
+            "ingredient": "heavy cream"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "packages",
+            "ingredient": "ladyfinger cookies (savoiardi)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "strong espresso, cooled"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "3",
+            "unit": "tablespoons",
+            "ingredient": "coffee liqueur (optional)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "unsweetened cocoa powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "2",
+            "unit": "ounces",
+            "ingredient": "dark chocolate, grated (optional)"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "In a large bowl, whisk egg yolks and sugar until thick and pale, about 5 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Add mascarpone to the egg mixture and whisk until smooth and combined."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "In a separate bowl, whip heavy cream to stiff peaks."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Gently fold the whipped cream into the mascarpone mixture in three additions."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Combine espresso and coffee liqueur in a shallow dish."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Quickly dip each ladyfinger in the coffee mixture and arrange in a single layer in a 9x13 dish."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Spread half of the mascarpone mixture over the ladyfingers."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Repeat with another layer of dipped ladyfingers and remaining mascarpone mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Cover and refrigerate for at least 4 hours or overnight."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Before serving, dust with cocoa powder and grated chocolate if using."
+      }
+    ],
+    "nutrition": {
+      "calories": 425,
+      "protein": "8g",
+      "carbs": "35g",
+      "fat": "28g",
+      "fiber": "1g"
+    },
+    "notes": [
+      "Use room temperature mascarpone to avoid lumps",
+      "Don't oversoak the ladyfingers or they'll become mushy",
+      "The longer it chills, the better the flavors meld"
+    ],
+    "variations": [
+      "Add a layer of fresh berries",
+      "Use amaretto instead of coffee liqueur",
+      "Make individual portions in glasses",
+      "Add a layer of chocolate shavings"
+    ],
+    "storage": "Best consumed within 2-3 days, covered in refrigerator"
+  },
+  {
+    "_id": "recipe-angel-biscuits",
+    "_type": "recipe",
+    "title": "Angel Biscuits",
+    "slug": {
+      "_type": "slug",
+      "current": "angel-biscuits"
+    },
+    "description": "Family recipe for Angel Biscuits. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "package",
+            "ingredient": "dry yeast"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "warm water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2½",
+            "unit": "cup",
+            "ingredient": "s plain flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "tsp",
+            "ingredient": "soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "⅓",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "shortening"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "buttermilk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix yeast and warm water."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Mix dry ingredients, cut in shortening."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Add buttermilk and yeast mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Mix well with spoon."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Turn out on lightly floured surface."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Roll and cut."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Place on lightly greased baking sheet."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Let rise 1 hour at room temperature."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Bake in 350° oven about 15 minutes or until brown."
+      }
+    ],
+    "notes": [
+      "Dough will keep in refrigerator several days if covered."
+    ]
+  },
+  {
+    "_id": "recipe-applesauce-muffins",
+    "_type": "recipe",
+    "title": "Applesauce Muffins",
+    "slug": {
+      "_type": "slug",
+      "current": "applesauce-muffins"
+    },
+    "description": "Family recipe for Applesauce Muffins. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Muffins",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "butter"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "nuts (coarsely chopped)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "cinnamon"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "teaspoon",
+            "ingredient": "s soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "allspice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "4",
+            "unit": "cup",
+            "ingredient": "s all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s applesauce"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Cream butter and sugar. Add eggs and beat well."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Add cinnamon, soda, allspice and salt. Mix well. (over)"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Add flour and applesauce. Blend well."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Stir in nuts."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Bake in paper cups or non-stick muffin pan (my preference) 25-30 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "These muffins are color good without nuts."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-apricot-almond-scones",
+    "_type": "recipe",
+    "title": "Apricot Almond Scones",
+    "slug": {
+      "_type": "slug",
+      "current": "apricot-almond-scones"
+    },
+    "description": "Family recipe for Apricot Almond Scones. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Scones",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "4½",
+            "unit": "teaspoon",
+            "ingredient": "s baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "s baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "tablespoon",
+            "ingredient": "s sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¼",
+            "unit": "teaspoon",
+            "ingredient": "ginger"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "¼",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "butter, cut up"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "¾",
+            "unit": "cup",
+            "ingredient": "buttermilk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "dried apricots, finely chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "almond extract"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_11",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "cinnamon-sugar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Advantium: 5-7 minutes (U: 6, L: 4, M: 2)"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Advantium 120: 16-18 minutes (Med-Lo, Lo, •)"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-baked-chicken-breasts-en-casserole",
+    "_type": "recipe",
+    "title": "Baked Chicken Breasts En Casserole",
+    "slug": {
+      "_type": "slug",
+      "current": "baked-chicken-breasts-en-casserole"
+    },
+    "description": "Family recipe for Baked Chicken Breasts En Casserole. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Casseroles",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "chicken breasts"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "chicken broth"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "",
+            "ingredient": "c. dry white wine"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "Tbl grated onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "½",
+            "unit": "",
+            "ingredient": "c. mayonnaise"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "Tbl lemon juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "can",
+            "ingredient": "cream of chicken soup"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Crushed potato chips"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Slivered almonds"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Remove skin from chicken breasts; place in skillet. Add broth, wine, and enough water to cover. Bring to boil; simmer 15 minutes or until tender. Transfer with slotted spoon to casserole."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Boil down broth to ¼ cup."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Mix together onion, mayonnaise, lemon juice, sugar, reduced broth, and soup. Pour over chicken."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Bake in 350 oven 20 minutes. Cover with potato chips and almonds; bake 10 minutes. Yield 4 servings."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-baked-grits",
+    "_type": "recipe",
+    "title": "Baked Grits",
+    "slug": {
+      "_type": "slug",
+      "current": "baked-grits"
+    },
+    "description": "Family recipe for Baked Grits. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.381Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "grits (cooked as pkg. suggests)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs, beaten slightly"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "stick",
+            "ingredient": "butter or oleo"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1½",
+            "unit": "cup",
+            "ingredient": "s grits sharp cheddar cheese (& %)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¼",
+            "unit": "",
+            "ingredient": "teas. cayenne pepper (to suit taste)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "",
+            "unit": "",
+            "ingredient": "Salt to taste & pepper can be omitted"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "milk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix all ingredients and bake in 325° oven for 25 or 30 min or until desired thickness. Some cheese sprinkled over top just before removing from oven also lets it brown & taste."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Goes great with pork, chicken etc. instead of potatoes. If you like garlic add garlic salt to taste."
+      }
+    ]
+  }
+]

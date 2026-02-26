@@ -22,23 +22,39 @@ export default async function CategoriesPage() {
       )
     : []
 
+  const hero = categoriesPage?.hero || {}
+
   return (
     <>
       {/* Hero */}
       <section className="relative bg-charcoal py-20 md:py-28">
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0" style={{
-            backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
-          }} />
-        </div>
+        {/* Background Image or Pattern */}
+        {hero.backgroundImage ? (
+          <>
+            <div className="absolute inset-0">
+              <SanityImage
+                image={hero.backgroundImage}
+                fill
+                className="object-cover opacity-40"
+              />
+            </div>
+            <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/80 to-transparent" />
+          </>
+        ) : (
+          <div className="absolute inset-0 opacity-10">
+            <div className="absolute inset-0" style={{
+              backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+            }} />
+          </div>
+        )}
         <div className="container-editorial relative z-10">
           <div className="max-w-2xl">
             <span className="text-label text-terracotta mb-4 block">Browse Collection</span>
             <h1 className="heading-hero text-white mb-5">
-              {categoriesPage?.hero?.heading || 'Categories'}
+              {hero.heading || 'Categories'}
             </h1>
-            {categoriesPage?.hero?.description && (
-              <p className="text-lg text-white/70 max-w-md">{categoriesPage.hero.description}</p>
+            {hero.description && (
+              <p className="text-lg text-white/70 max-w-md">{hero.description}</p>
             )}
           </div>
         </div>

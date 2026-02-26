@@ -1,0 +1,1263 @@
+[
+  {
+    "_id": "recipe-corn-chowder-soup",
+    "_type": "recipe",
+    "title": "Corn Chowder Soup",
+    "slug": {
+      "_type": "slug",
+      "current": "corn-chowder-soup"
+    },
+    "description": "Family recipe for Corn Chowder Soup. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Soups",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "3",
+            "unit": "cup",
+            "ingredient": "s water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "stalk celery chopped"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "g",
+            "ingredient": "reen onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "tablespoon",
+            "ingredient": "oleo"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "",
+            "unit": "",
+            "ingredient": "salt & pepper to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "lb",
+            "ingredient": "or 3 turkey pieces"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "1 small can cream corn"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "1 can cream chicken soup"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "1 can cream celery soup"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "1 small can pet milk"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "1 cup water"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-corn-rice-casserole",
+    "_type": "recipe",
+    "title": "Corn Rice Casserole",
+    "slug": {
+      "_type": "slug",
+      "current": "corn-rice-casserole"
+    },
+    "description": "Family recipe for Corn Rice Casserole. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Casseroles",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "PKG. YELLOW (SAFFRON) RICE - (MAHATMA) COOK AS DIRECTED"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "CAN",
+            "ingredient": "MEXICORN"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "CAN",
+            "ingredient": "CREAM OF CELERY SOUP"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "CARTON SOUR CREAM ONION DIP (16 oz.)"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "2",
+            "unit": "CUP",
+            "ingredient": "S SHARP CHEDDER CHEESE - GRATED"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "MIX ALL THIS AND ADD TO RICE. POUR INTO CASSEROLE AND BAKE TILL IT BUBBLES ON 350 DEGREES."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-cranberry-nut-bread-recipe",
+    "_type": "recipe",
+    "title": "Cranberry Nut Bread Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "cranberry-nut-bread-recipe"
+    },
+    "description": "Family recipe for Cranberry Nut Bread Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "3/4",
+            "unit": "cup",
+            "ingredient": "granulated sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1 1/2",
+            "unit": "teaspoon",
+            "ingredient": "baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1/2",
+            "unit": "teaspoon",
+            "ingredient": "baking soda"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1/2",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "3/4",
+            "unit": "cup",
+            "ingredient": "coarsely chopped walnuts"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "chopped cranberries"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "3/4",
+            "unit": "cup",
+            "ingredient": "orange juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "1/4",
+            "unit": "cup",
+            "ingredient": "butter, melted"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "egg, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "1",
+            "unit": "Tbsp",
+            "ingredient": "grated orange peel"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Pre-heat oven to 350°F."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Mix the flour, sugar, baking powder, baking soda, and salt in a large mixing bowl. Add the chopped cranberries and walnuts to coat with the flour mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Mix together orange juice, butter, egg, and orange peel. Add to flour, cranberry, nut mixture and stir with a wooden spoon until just blended."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Pour into a greased 9x5 or 8x4 loaf pan. Bake at 350°F for 55 to 60 minutes or until done (a toothpick inserted into the center comes out clean)."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Cool in pan for 10 minutes. Remove from pan and cool on a wire rack."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-cranberry-orange-scones-full-recipe",
+    "_type": "recipe",
+    "title": "Cranberry Orange Scones Full Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "cranberry-orange-scones-full-recipe"
+    },
+    "description": "Family recipe for Cranberry Orange Scones Full Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Scones",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "C. flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "t. baking powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "¾",
+            "unit": "",
+            "ingredient": "C. sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "t. salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "",
+            "unit": "G",
+            "ingredient": "rated orange peel from 1 orange"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "C. butter, room temperature, cut into small pieces"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "large",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "⅓",
+            "unit": "",
+            "ingredient": "C. frozen orange juice"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "⅓",
+            "unit": "",
+            "ingredient": "C. milk"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "¾",
+            "unit": "",
+            "ingredient": "to 1 Cup (to suit taste) of fresh or frozen cranberries"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "2",
+            "unit": "tablespoon",
+            "ingredient": "s of light brown sugar"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Coat cranberries with brown sugar, distributing the sugar so as many cranberries as possible get coated."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Combine dry ingredients plus grated orange peel; cut in butter until mixture resembles coarse crumbs."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "In small bowl, whisk eggs, orange juice and milk. (Save a couple of tablespoons to brush tops of scones before baking.) Stir into flour mixture, combining until dough is moist. If it is too sticky to handle, add a bit more flour. Mix in the cranberries."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Turn dough onto floured work surface; knead a few turns."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-crazy-custard-pie",
+    "_type": "recipe",
+    "title": "Crazy Custard Pie",
+    "slug": {
+      "_type": "slug",
+      "current": "crazy-custard-pie"
+    },
+    "description": "Family recipe for Crazy Custard Pie. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "56230a66-83f0-4a25-9a50-8bfd17d08448"
+    },
+    "subcategory": "Pies",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "eggs"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "3",
+            "unit": "",
+            "ingredient": "table sp flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "table sp melted oleo"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "tsp",
+            "ingredient": "sp vanilla"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "big can pet milk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Blend in blender - pour in greased pie pan - sprinkle with nutmeg if desired"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Bake at 325° for 40 minutes - Cool about 20 min."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-crunchy-chicken-recipe",
+    "_type": "recipe",
+    "title": "Crunchy Chicken Recipe",
+    "slug": {
+      "_type": "slug",
+      "current": "crunchy-chicken-recipe"
+    },
+    "description": "Family recipe for Crunchy Chicken Recipe. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "Cup",
+            "ingredient": "Chopped Pecans"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "¼",
+            "unit": "Cup",
+            "ingredient": "Parmesan Cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "½",
+            "unit": "tsp",
+            "ingredient": "Garlic Powder"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "tsp",
+            "ingredient": "Dried Basil"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix above ingredients together."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Dip Chicken in lemon Juice."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Coat Chicken with the above mixed dry ingredients."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Sautee in olive oil in a skillet with medium heat until golden brown."
+      }
+    ],
+    "notes": [
+      "included:**\r\n*Mix: 1 cup chopped pecans, ½ cup Parmesan cheese, ½ tsp Garlic salt, ½ tsp Dried basil. Dip in lemon juice. Coat with above mixture. Sautee in olive oil in med. heat.*"
+    ]
+  },
+  {
+    "_id": "recipe-crunch-catfish-with-lemon-butter-sauce",
+    "_type": "recipe",
+    "title": "Crunch Catfish With Lemon Butter Sauce",
+    "slug": {
+      "_type": "slug",
+      "current": "crunch-catfish-with-lemon-butter-sauce"
+    },
+    "description": "Family recipe for Crunch Catfish With Lemon Butter Sauce. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "4",
+            "unit": "",
+            "ingredient": "thin catfish fillets"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "eggs, beaten"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "T. water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1",
+            "unit": "cup",
+            "ingredient": "butter-flavored crackers, crushed"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "¼",
+            "unit": "cup",
+            "ingredient": "Parmesan cheese, grated"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "1",
+            "unit": "",
+            "ingredient": "T. Greek seasoning"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "2",
+            "unit": "",
+            "ingredient": "T. butter, melted"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Preheat the oven to 325 degrees."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Mix the eggs and water in a shallow bowl."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Combine the crackers, cheese, and seasoning on a plate."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Dredge the fillets in the eggs and then coat with the cracker mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Place in a greased casserole, and drizzle with the melted butter."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Bake for about 30 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "½ stick butter"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Juice of 1 lemon"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "¼ cup green onions, sliced"
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Salt and pepper"
+      }
+    ]
+  },
+  {
+    "_id": "recipe-delicious-ham-and-potato-soup",
+    "_type": "recipe",
+    "title": "Delicious Ham And Potato Soup",
+    "slug": {
+      "_type": "slug",
+      "current": "delicious-ham-and-potato-soup"
+    },
+    "description": "Family recipe for Delicious Ham And Potato Soup. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Soups",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "3 1/2",
+            "unit": "cup",
+            "ingredient": "s peeled and diced potatoes"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1/3",
+            "unit": "cup",
+            "ingredient": "diced celery"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1/3",
+            "unit": "cup",
+            "ingredient": "finely chopped onion"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "3/4",
+            "unit": "cup",
+            "ingredient": "diced cooked ham"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "3 1/4",
+            "unit": "cup",
+            "ingredient": "s water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "2",
+            "unit": "tablespoon",
+            "ingredient": "s chicken bouillon granules"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "1/2",
+            "unit": "teaspoon",
+            "ingredient": "salt, or to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_7",
+            "amount": "1",
+            "unit": "teaspoon",
+            "ingredient": "ground white or black pepper, or to taste"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_8",
+            "amount": "5",
+            "unit": "tablespoon",
+            "ingredient": "s butter"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_9",
+            "amount": "5",
+            "unit": "tablespoon",
+            "ingredient": "s all-purpose flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_10",
+            "amount": "2",
+            "unit": "cup",
+            "ingredient": "s milk"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "**\r\nCombine the potatoes, celery, onion, ham and water in a stockpot. Bring to a boil, then cook over medium heat until potatoes are tender, about 10 to 15 minutes. Stir in the chicken bouillon, salt and pepper."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In separate saucepan, melt butter over medium-low heat. Whisk in flour with fork, and cook, stirring constantly until thick, about 1 minute. Slowly stir in milk as not to allow lumps to form until all milk has been added. Continue stirring over medium-low heat until thick, 4 to 5 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Stir milk mixture into stockpot, and cook soup until heated through. Serve immediately."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-dorothy-browns-breakfast-casserole",
+    "_type": "recipe",
+    "title": "Dorothy Browns Breakfast Casserole",
+    "slug": {
+      "_type": "slug",
+      "current": "dorothy-browns-breakfast-casserole"
+    },
+    "description": "Family recipe for Dorothy Browns Breakfast Casserole. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "9d8f6746-12af-44be-8c44-c5db86d52a36"
+    },
+    "subcategory": "Casseroles",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "2",
+            "unit": "can",
+            "ingredient": "s crescent rolls"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "1",
+            "unit": "lb",
+            "ingredient": "of sausage"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "8",
+            "unit": "oz",
+            "ingredient": "of cream cheese"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "1/2",
+            "unit": "lb",
+            "ingredient": "of grated cheese"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Brown sausage then drain it. Place sausage back in skillet. Add cream cheese to melt it."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "Unroll 1 can of crescent rolls place on in a 13 x 9 dish. Spread sausage mixture over crescent rolls. Cover with grated cheese. Place the 2nd can of crescent rolls on top."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Bake about 20 minutes or until golden brown."
+      }
+    ]
+  },
+  {
+    "_id": "recipe-french-bread",
+    "_type": "recipe",
+    "title": "French Bread",
+    "slug": {
+      "_type": "slug",
+      "current": "french-bread"
+    },
+    "description": "Family recipe for French Bread. A cherished recipe passed down through generations.",
+    "category": {
+      "_type": "reference",
+      "_ref": "6d1db21c-b896-40c1-b84c-74074bf632b9"
+    },
+    "subcategory": "Breads & Biscuits",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prepTime": "",
+    "cookTime": "",
+    "totalTime": "",
+    "restTime": "",
+    "tags": [
+      "family-recipe"
+    ],
+    "isFamilyRecipe": true,
+    "featured": false,
+    "rating": 0,
+    "reviewCount": 0,
+    "dateCreated": "2024-01-01",
+    "dateModified": "2026-02-25T21:02:08.382Z",
+    "author": {
+      "_type": "reference",
+      "_ref": "00182644-6306-4089-a941-f961319ca554"
+    },
+    "ingredients": [
+      {
+        "_type": "ingredientGroup",
+        "_key": "main",
+        "groupName": "Ingredients",
+        "items": [
+          {
+            "_type": "ingredient",
+            "_key": "ing_0",
+            "amount": "1",
+            "unit": "package",
+            "ingredient": "dry yeast"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_1",
+            "amount": "½",
+            "unit": "cup",
+            "ingredient": "very warm water"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_2",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "sugar"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_3",
+            "amount": "½",
+            "unit": "teaspoon",
+            "ingredient": "salt"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_4",
+            "amount": "1",
+            "unit": "tablespoon",
+            "ingredient": "soft shortening"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_5",
+            "amount": "4",
+            "unit": "cup",
+            "ingredient": "s sifted flour"
+          },
+          {
+            "_type": "ingredient",
+            "_key": "ing_6",
+            "amount": "",
+            "unit": "",
+            "ingredient": "melted butter or oleo"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "_type": "instructionStep",
+        "_key": "step_0",
+        "step": 1,
+        "instruction": "Mix yeast until dissolved in ½ cup of water."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_1",
+        "step": 2,
+        "instruction": "In large bowl dissolve sugar and salt in remaining 1 cup warm water."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_2",
+        "step": 3,
+        "instruction": "Add shortening and yeast mixture."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_3",
+        "step": 4,
+        "instruction": "Mix well, add flour."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_4",
+        "step": 5,
+        "instruction": "Work through dough with spoon every 10 minutes for 1-3 times."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_5",
+        "step": 6,
+        "instruction": "Turn dough onto lightly floured surface and divide in half."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_6",
+        "step": 7,
+        "instruction": "Shape into two balls."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_7",
+        "step": 8,
+        "instruction": "Let rest 10 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_8",
+        "step": 9,
+        "instruction": "Make into two loaves."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_9",
+        "step": 10,
+        "instruction": "Cover with towel and let rise 1½ hours."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_10",
+        "step": 11,
+        "instruction": "Bake at 375° for 35 minutes."
+      },
+      {
+        "_type": "instructionStep",
+        "_key": "step_11",
+        "step": 12,
+        "instruction": "Brush with melted butter."
+      }
+    ]
+  }
+]

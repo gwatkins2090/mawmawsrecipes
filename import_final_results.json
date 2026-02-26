@@ -1,0 +1,16 @@
+{
+  "successful": [
+    "sanity_batch_2.json",
+    "sanity_batch_3.json",
+    "sanity_batch_4.json",
+    "sanity_batch_5.json",
+    "sanity_batch_6.json",
+    "sanity_batch_7.json",
+    "sanity_batch_8.json",
+    "sanity_batch_9.json",
+    "sanity_batch_10.json",
+    "sanity_batch_11.json",
+    "sanity_batch_12.json"
+  ],
+  "failed": []
+}
